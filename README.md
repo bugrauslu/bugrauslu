@@ -7,33 +7,27 @@
   <img src="https://media.giphy.com/media/tAjb5pyCEBhEb8jWxC/giphy.gif" width="100" height="100" ; />
   <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="100" height="100"  />
   <img src="https://media.giphy.com/media/jCRobkNa7UrCrIz4zM/giphy.gif" width="100" height="100"; />
- 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/bugrauslu/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-         
-  </div>
-      <img src="https://komarev.com/ghpvc/?username=bugrauslu&style=flat-square&color=blue" alt=""/>
-   
- 
+    <div id="badges">
+      <a href="https://www.linkedin.com/in/bugrauslu/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>     
+    </div>
+        <img src="https://komarev.com/ghpvc/?username=bugrauslu&style=flat-square&color=blue" alt=""/>
 </div>
     <div align="center">
        <img src="https://media.giphy.com/media/aYQ1Enqu89rQfr4JSS/giphy.gif" width="900" height="400"/>
          <h1>
         hey there i am a backend developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-     </h1>
+         </h1>
      :woman_technologist: About Me :
 
-- :telescope: I’m working as a Software Developer and contributing to  backend for building web/mobile applications.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bugrauslu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bugrauslu/) or bugrauslu@protonmail.com
-      </div>
-
-  
+      - :telescope: I’m working as a Software Developer and contributing to  backend for building web/mobile applications.
+      - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bugrauslu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bugrauslu/) or bugrauslu@protonmail.com
+    </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="sequelize" alt="sequelize" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" **alt="MSSQL" width="40"height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM"  alt="NPM" width="40" height="40"/>&nbsp;
@@ -45,6 +39,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heraku" alt="Heraku" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40" />
     
- 
-  
 </div>
