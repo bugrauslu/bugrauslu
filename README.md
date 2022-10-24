@@ -13,6 +13,9 @@
     </div>
         <img src="https://komarev.com/ghpvc/?username=bugrauslu&style=flat-square&color=blue" alt=""/>
 </div>
+  <div>
+      <hr>
+    </div>
     <div align="center">
        <img src="https://media.giphy.com/media/aYQ1Enqu89rQfr4JSS/giphy.gif" width="900" height="400"/>
          <h1>
