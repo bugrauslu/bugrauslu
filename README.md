@@ -18,11 +18,17 @@
          <h1>
         hey there i am a backend developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
          </h1>
-     :woman_technologist: About Me :
-
-      - :telescope: I’m working as a Software Developer and contributing to  backend for building web/mobile applications.
-      - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bugrauslu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bugrauslu/) or bugrauslu@protonmail.com
     </div>
+  <div align="center">
+      :woman_technologist: About Me :
+    I am a Backend Devoloper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+    
+  - :telescope: I’m working as a Software Devoloper and contributing to backend for building web/mobile applications.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bugrauslu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bugrauslu/) / [![Linkedin Badge]( https://img.shields.io/badge/-bugrauslu@protonmail.com-blue?style=flat&logo=protonmail&logoColor=white)](bugrauslu@protonmail.com) / [![Linkedin Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](0536-242-67-78) 
+  </div>
+ 
+ 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
