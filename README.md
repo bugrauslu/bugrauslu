@@ -25,7 +25,7 @@
     
   - :telescope: I’m working as a Software Devoloper and contributing to backend for building web/mobile applications.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bugrauslu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bugrauslu/) / [![Linkedin Badge]( https://img.shields.io/badge/-bugrauslu@protonmail.com-blue?style=flat&logo=protonmail&logoColor=white)](bugrauslu@protonmail.com) / [![Linkedin Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](0536-242-67-78) 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bugrauslu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bugrauslu/) / [![Linkedin Badge]( https://img.shields.io/badge/-bugrauslu@protonmail.com-blue?style=flat&logo=protonmail&logoColor=white)](bugrauslu@protonmail.com) / [![Linkedin Badge](https://img.shields.io/badge/WhatsApp-05362426778?style=for-the-badge&logo=whatsapp&logoColor=white)](0536-242-67-78) 
   </div>
  
  
