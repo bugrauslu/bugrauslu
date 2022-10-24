@@ -31,7 +31,13 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bugrauslu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bugrauslu/) / [![Linkedin Badge]( https://img.shields.io/badge/-bugrauslu@protonmail.com-blue?style=flat&logo=protonmail&logoColor=white)](bugrauslu@protonmail.com) / [![Linkedin Badge](https://img.shields.io/badge/WhatsApp-05362426778?style=for-the-badge&logo=whatsapp&logoColor=white)](0536-242-67-78) 
   </div>
  
- :hammer_and_wrench: Languages and Tools :
+
+ <div align="center">
+      <hr>
+      <h3>
+       :hammer_and_wrench: Languages and Tools 
+       <h3>
+    </div>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -53,9 +59,10 @@
     <div>
       <hr>
     </div>
-    
+     <h3>
    :fire: My Stats 
-  
+      </h3>
+      
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bugrauslu&theme=dark&background=000000)](https://git.io/streak-stats)
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bugrauslu&layout=compact&theme=vision-friendly-dark)](https://github.com/bugrauslu)
