@@ -1,11 +1,11 @@
  <div align="center">
-      <h1>hey there i am a backend developer </h1>
-      :woman_technologist: About Me :
+      <h1>Hey there I am a backend developer <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="60">  </h1>
+      About Me 
     I am a Backend Devoloper <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
     
-  - :telescope: I’m working as a Software Devoloper and contributing to backend for building web/mobile applications.
+  :telescope: I’m working as a Software Devoloper and contributing to backend for building web/mobile applications.
 
-- :mailbox: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bugrauslu/)  [![protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](bugrauslu@protonmail.com)  [![Linkedin Badge](https://img.shields.io/badge/WhatsApp-05362426778?style=for-the-badge&logo=whatsapp&logoColor=white)](0536-242-67-78)
+:mailbox: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bugrauslu/)  [![protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](bugrauslu@protonmail.com)  [![Linkedin Badge](https://img.shields.io/badge/WhatsApp-05362426778?style=for-the-badge&logo=whatsapp&logoColor=white)](0536-242-67-78)
        <img src="https://komarev.com/ghpvc/?username=bugrauslu&style=for-the-badge&color=blue" alt=""/>
        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitterbadge"/>
 </div>
